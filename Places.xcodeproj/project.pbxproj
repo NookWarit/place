@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5400DF742295568C0022807C /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5400DF732295568C0022807C /* TableViewCell.swift */; };
 		5444D34D2291B215002292BD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5444D34C2291B215002292BD /* AppDelegate.swift */; };
 		5444D34F2291B215002292BD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5444D34E2291B215002292BD /* ViewController.swift */; };
 		5444D3522291B215002292BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5444D3502291B215002292BD /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5400DF732295568C0022807C /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		5444D3492291B215002292BD /* Places.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Places.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5444D34C2291B215002292BD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5444D34E2291B215002292BD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				5444D3532291B217002292BD /* Assets.xcassets */,
 				5444D3552291B217002292BD /* LaunchScreen.storyboard */,
 				5444D3582291B217002292BD /* Info.plist */,
+				5400DF732295568C0022807C /* TableViewCell.swift */,
 			);
 			path = Places;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5400DF742295568C0022807C /* TableViewCell.swift in Sources */,
 				5444D34F2291B215002292BD /* ViewController.swift in Sources */,
 				5444D34D2291B215002292BD /* AppDelegate.swift in Sources */,
 			);
